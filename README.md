@@ -1,2 +1,1 @@
-# junction
-core.acadmy
+
